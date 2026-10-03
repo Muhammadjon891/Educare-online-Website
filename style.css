@@ -213,7 +213,7 @@ body {
 }
 
 .box34 {
-    margin-right: 10px;
+    margin-right: 700px;
 }
 
 .box35 {
@@ -469,7 +469,56 @@ body {
     animation-duration: 3s;
 }
 
+.box51{
+    position: relative;
+    left: 250px;
+}
+.box56{
+    position: relative;
+    left: 250px;
+}
+.box49{
+    position: relative;
+    left: 250px;
+}
 
+.box50{
+    font-size: 20px;
+    position: relative;
+    left: 250px;
+}
 
+.box46{
+    position: relative;
+    left: 250px;
+    width: 30px;
+    top: -22px;
+}
+.box47{
+    position: relative;
+    left: 250px;
+    top: -22px;
+    
+}
 
+.box58:hover{
+    color: white;
+}
 
+.box59:hover{
+    color: white;
+}
+
+.box34{
+    position: relative;
+    left: 310px;
+}
+
+.box35{
+    position: relative;
+    left: -360px;
+}
+.box36{
+     position: relative;
+    left: -350px;
+}
